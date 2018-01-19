@@ -28,6 +28,9 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Facts-as-taggable-on.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Facts-as-taggable-on?ref=badge_large)
+
 # ActsAsTaggableOn
 
 [![Join the chat at https://gitter.im/mbleigh/acts-as-taggable-on](https://badges.gitter.im/mbleigh/acts-as-taggable-on.svg)](https://gitter.im/mbleigh/acts-as-taggable-on?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -36,6 +39,7 @@
 [![Code Climate](https://codeclimate.com/github/mbleigh/acts-as-taggable-on.svg)](https://codeclimate.com/github/mbleigh/acts-as-taggable-on)
 [![Inline docs](http://inch-ci.org/github/mbleigh/acts-as-taggable-on.svg)](http://inch-ci.org/github/mbleigh/acts-as-taggable-on)
 [![Security](https://hakiri.io/github/mbleigh/acts-as-taggable-on/master.svg)](https://hakiri.io/github/mbleigh/acts-as-taggable-on/master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Facts-as-taggable-on.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Facts-as-taggable-on?ref=badge_shield)
 
 This plugin was originally based on Acts as Taggable on Steroids by Jonathan Viney.
 It has evolved substantially since that point, but all credit goes to him for the
